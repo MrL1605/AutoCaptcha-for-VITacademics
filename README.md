@@ -1,6 +1,6 @@
 # AutoCaptcha for Chrome/Firefox
 
-Simple extension to fill in the captcha at [academics.vit.ac.in](academics.vit.ac.in).
+Simple extension to fill in the captcha at [academics.vit.ac.in](academics.vit.ac.in), now shifted to [VTOP](vtop.vit.ac.in).
 
 ## Installation
 
@@ -47,7 +47,7 @@ Download from the Firefox Add-ons website - [AutoCaptcha for Firefox](https://ad
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? If your problem or idea is not addressed yet, [please open a new issue](https://github.com/karthikb351/AutoCaptcha-for-chrome/issues).
+Have a bug or a feature request? If your problem or idea is not addressed yet, [please open a new issue](https://github.com/MrL1605/AutoCaptcha-for-chrome/issues).
 
 ## Contributing and License
 
