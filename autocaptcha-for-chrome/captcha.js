@@ -714,8 +714,6 @@ function addCredits() {
 }
 
 function loaded() {
-    ga('create', 'UA-57013788-1', 'auto');
-    ga('send', 'pageview');
 
     console.log("AutoCaptcha for VITacademics");  
 
